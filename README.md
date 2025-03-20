@@ -147,9 +147,15 @@ python train_dcgan_kidney.py
 
 Make sure to configure the dataset location and adjust any hyperparameters before running the training script.
 
+
+
 ## References
 
 - [DCGAN Paper](https://arxiv.org/abs/1511.06434)
 - [PyTorch DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 - [Kaggle CT Kidney Dataset](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)
 
+
+
+📌 This notebook is too large to render on GitHub. You can view it on Kaggle:  
+[🔗 Kidney Disease by GANs](https://www.kaggle.com/code/mahmoudsalama7/kidney-disease-by-gans)
